@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--docsJun19--iain_mag.aem.page/
+- Live: https://main--docsJun19--iain_mag.aem.live/
 
 ## Documentation
 
